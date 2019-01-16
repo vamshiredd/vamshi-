@@ -9,4 +9,4 @@
 - [github](https://github.com/vamshiredd)
 - [bitbucket](https://bitbucket.org/Vamshireddie/)
 ## picture
-![vamshi](https://en.wikipedia.org/wiki/Dog#/media/File:Collage_of_Nine_Dogs.jpg "vamshi")
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
