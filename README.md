@@ -9,4 +9,4 @@
 - [github](https://github.com/vamshiredd)
 - [bitbucket](https://bitbucket.org/Vamshireddie/)
 ## picture
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+![Hosted image](https://animals.sandiegozoo.org/sites/default/files/inline-images/tiger_amur_snow.jpg "Lynx Kitten")
